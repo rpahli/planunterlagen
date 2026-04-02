@@ -1,0 +1,77 @@
+site_name: Planunterlagen Documentation
+site_url: https://rpahli.github.io/planunterlagen/
+repo_url: https://github.com/rpahli/planunterlagen
+
+theme:
+  name: material
+  palette:
+    # Light mode
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.tabs
+    - navigation.expand
+    - navigation.instant
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+
+plugins:
+  - search
+  - redirects:
+      redirect_maps:
+        # Add URL redirects here when moving or renaming pages
+        # Format: 'old/path.md': 'new/path.md'
+
+nav:
+  - Home: index.md
+  - Guide:
+      - Getting Started: guide/getting-started.md
+      - Publishing Overview: guide/publishing-overview.md
+  - Maintenance:
+      - Publishing Runbook: maintenance/publishing-runbook.md
+      - Publishing Prerequisites: maintenance/publishing-prerequisites.md
+      - Publishing Scope: maintenance/publishing-scope.md
+      - URL Lifecycle: maintenance/url-lifecycle.md
+      - Content Update Checklist: maintenance/content-update-checklist.md
+      - Content Lifecycle: maintenance/content-lifecycle.md
+      - Troubleshooting: maintenance/troubleshooting.md
+  - Decisions:
+      - ADR 001 - Publishing Approach: decisions/001-publishing-approach.md
+      - Decision Sign-off Template: decisions/decision-signoff-template.md
+
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+  anchors: warn
+
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - tables
+  - toc:
+      permalink: true

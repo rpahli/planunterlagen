@@ -17,11 +17,11 @@
 
 **Purpose**: Initialize MkDocs/Material project scaffolding and deployment files.
 
-- [ ] T001 Create docs dependency manifest in `requirements-docs.txt`
-- [ ] T002 [P] Create initial docs skeleton in `docs/index.md`
-- [ ] T003 [P] Create custom stylesheet scaffold in `docs/stylesheets/extra.css`
-- [ ] T004 Create baseline MkDocs configuration in `mkdocs.yml`
-- [ ] T005 Create GitHub Pages workflow scaffold in `.github/workflows/docs-pages.yml`
+- [X] T001 Create docs dependency manifest in `requirements-docs.txt`
+- [X] T002 [P] Create initial docs skeleton in `docs/index.md`
+- [X] T003 [P] Create custom stylesheet scaffold in `docs/stylesheets/extra.css`
+- [X] T004 Create baseline MkDocs configuration in `mkdocs.yml`
+- [X] T005 Create GitHub Pages workflow scaffold in `.github/workflows/docs-pages.yml`
 
 ---
 
@@ -31,12 +31,12 @@
 
 **CRITICAL**: Complete this phase before starting user story implementation.
 
-- [ ] T006 Define include/exclude publication scope policy in `docs/maintenance/publishing-scope.md`
-- [ ] T007 Configure strict validation defaults in `mkdocs.yml`
-- [ ] T008 [P] Define link-check policy and thresholds in `tests/docs/link-policy.md`
-- [ ] T009 Add CI link-check workflow in `.github/workflows/docs-link-check.yml`
-- [ ] T010 Define URL lifecycle and depublication policy in `docs/maintenance/url-lifecycle.md`
-- [ ] T011 Document maintainer roles and ownership in `docs/maintenance/publishing-runbook.md`
+- [X] T006 Define include/exclude publication scope policy in `docs/maintenance/publishing-scope.md`
+- [X] T007 Configure strict validation defaults in `mkdocs.yml`
+- [X] T008 [P] Define link-check policy and thresholds in `tests/docs/link-policy.md`
+- [X] T009 Add CI link-check workflow in `.github/workflows/docs-link-check.yml`
+- [X] T010 Define URL lifecycle and depublication policy in `docs/maintenance/url-lifecycle.md`
+- [X] T011 Document maintainer roles and ownership in `docs/maintenance/publishing-runbook.md`
 
 **Checkpoint**: Foundation complete; user stories can proceed.
 
@@ -50,13 +50,13 @@
 
 ### Implementation for User Story 1
 
-- [ ] T012 [US1] Add initial public landing content in `docs/index.md`
-- [ ] T013 [P] [US1] Create first navigation content page in `docs/guide/getting-started.md`
-- [ ] T014 [P] [US1] Create second navigation content page in `docs/guide/publishing-overview.md`
-- [ ] T015 [US1] Configure explicit site navigation and Material theme settings in `mkdocs.yml`
-- [ ] T016 [US1] Implement baseline branding variables and readability styles in `docs/stylesheets/extra.css`
-- [ ] T017 [US1] Complete build-and-deploy job definitions in `.github/workflows/docs-pages.yml`
-- [ ] T018 [US1] Add local publish/preview instructions for maintainers in `README.md`
+- [X] T012 [US1] Add initial public landing content in `docs/index.md`
+- [X] T013 [P] [US1] Create first navigation content page in `docs/guide/getting-started.md`
+- [X] T014 [P] [US1] Create second navigation content page in `docs/guide/publishing-overview.md`
+- [X] T015 [US1] Configure explicit site navigation and Material theme settings in `mkdocs.yml`
+- [X] T016 [US1] Implement baseline branding variables and readability styles in `docs/stylesheets/extra.css`
+- [X] T017 [US1] Complete build-and-deploy job definitions in `.github/workflows/docs-pages.yml`
+- [X] T018 [US1] Add local publish/preview instructions for maintainers in `README.md`
 
 **Checkpoint**: User Story 1 is independently deployable and browsable.
 
@@ -70,12 +70,12 @@
 
 ### Implementation for User Story 2
 
-- [ ] T019 [US2] Add content update checklist for maintainers in `docs/maintenance/content-update-checklist.md`
-- [ ] T020 [P] [US2] Add navigation-sync checker script in `scripts/docs/check_nav_sync.py`
-- [ ] T021 [US2] Integrate navigation-sync checker into `.github/workflows/docs-pages.yml`
-- [ ] T022 [P] [US2] Add redirects plugin dependency in `requirements-docs.txt`
-- [ ] T023 [US2] Configure redirect rules support and initial mappings in `mkdocs.yml`
-- [ ] T024 [US2] Document rename/move/delete handling process in `docs/maintenance/content-lifecycle.md`
+- [X] T019 [US2] Add content update checklist for maintainers in `docs/maintenance/content-update-checklist.md`
+- [X] T020 [P] [US2] Add navigation-sync checker script in `scripts/docs/check_nav_sync.py`
+- [X] T021 [US2] Integrate navigation-sync checker into `.github/workflows/docs-pages.yml`
+- [X] T022 [P] [US2] Add redirects plugin dependency in `requirements-docs.txt`
+- [X] T023 [US2] Configure redirect rules support and initial mappings in `mkdocs.yml`
+- [X] T024 [US2] Document rename/move/delete handling process in `docs/maintenance/content-lifecycle.md`
 
 **Checkpoint**: User Story 2 content sync behavior is independently verifiable.
 
@@ -89,11 +89,11 @@
 
 ### Implementation for User Story 3
 
-- [ ] T025 [US3] Create decision record for publishing approach in `docs/decisions/001-publishing-approach.md`
-- [ ] T026 [P] [US3] Create prerequisites and responsibilities guide in `docs/maintenance/publishing-prerequisites.md`
-- [ ] T027 [P] [US3] Create owner sign-off template in `docs/decisions/decision-signoff-template.md`
-- [ ] T028 [US3] Add decision and governance pages to site navigation in `mkdocs.yml`
-- [ ] T029 [US3] Link recommendation and maintainer guidance from home page in `docs/index.md`
+- [X] T025 [US3] Create decision record for publishing approach in `docs/decisions/001-publishing-approach.md`
+- [X] T026 [P] [US3] Create prerequisites and responsibilities guide in `docs/maintenance/publishing-prerequisites.md`
+- [X] T027 [P] [US3] Create owner sign-off template in `docs/decisions/decision-signoff-template.md`
+- [X] T028 [US3] Add decision and governance pages to site navigation in `mkdocs.yml`
+- [X] T029 [US3] Link recommendation and maintainer guidance from home page in `docs/index.md`
 
 **Checkpoint**: User Story 3 recommendation package is independently reviewable.
 
@@ -103,10 +103,10 @@
 
 **Purpose**: Final consistency pass across all stories.
 
-- [ ] T030 [P] Add documentation troubleshooting guide in `docs/maintenance/troubleshooting.md`
-- [ ] T031 Align quickstart commands with implemented workflow in `specs/001-markdown-site-pages/quickstart.md`
-- [ ] T032 Record final smoke-check execution plan in `tests/docs/smoke-check-plan.md`
-- [ ] T033 Run strict build and capture maintainer verification notes in `docs/maintenance/publishing-runbook.md`
+- [X] T030 [P] Add documentation troubleshooting guide in `docs/maintenance/troubleshooting.md`
+- [X] T031 Align quickstart commands with implemented workflow in `specs/001-markdown-site-pages/quickstart.md`
+- [X] T032 Record final smoke-check execution plan in `tests/docs/smoke-check-plan.md`
+- [X] T033 Run strict build and capture maintainer verification notes in `docs/maintenance/publishing-runbook.md`
 
 ---
 

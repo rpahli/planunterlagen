@@ -1,0 +1,52 @@
+/* Custom styles for Planunterlagen documentation site */
+
+:root {
+  /* Enhanced readability settings */
+  --md-text-font-size: 0.95rem;
+  --md-typeset-line-height: 1.6;
+}
+
+/* Improve table readability */
+.md-typeset table:not([class]) {
+  font-size: 0.85rem;
+  border-collapse: collapse;
+}
+
+.md-typeset table:not([class]) th {
+  background-color: var(--md-default-fg-color--lightest);
+  font-weight: 600;
+  padding: 0.6rem 0.8rem;
+}
+
+.md-typeset table:not([class]) td {
+  padding: 0.5rem 0.8rem;
+}
+
+/* Enhanced code block styling */
+.md-typeset pre > code {
+  border-radius: 0.2rem;
+}
+
+/* Improved admonition spacing */
+.md-typeset .admonition {
+  margin: 1.5em 0;
+}
+
+/* Better heading spacing */
+.md-typeset h2 {
+  margin-top: 2em;
+}
+
+.md-typeset h3 {
+  margin-top: 1.6em;
+}
+
+/* Navigation enhancements */
+.md-nav__link--active {
+  font-weight: 600;
+}
+
+/* Footer branding (optional) */
+.md-footer-meta {
+  background-color: var(--md-footer-bg-color);
+}
