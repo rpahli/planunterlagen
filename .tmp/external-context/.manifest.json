@@ -1,0 +1,31 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-04-02T12:25:00Z",
+  "libraries": {
+    "ssg-testing-github-pages": {
+      "files": [
+        {
+          "filename": "ci-testing-and-tdd.md",
+          "topic": "testing build output, link validity, navigation regressions, content sync in CI",
+          "tech_stack": "GitHub Pages + Markdown SSGs",
+          "fetched": "2026-04-02T12:00:00Z",
+          "source": "Context7 API + official docs"
+        },
+        {
+          "filename": "theming-comparison.md",
+          "topic": "theming capabilities and customization complexity comparison",
+          "tech_stack": "MkDocs Material, Docusaurus, Astro Starlight",
+          "fetched": "2026-04-02T12:00:00Z",
+          "source": "Context7 API + official docs"
+        },
+        {
+          "filename": "gh-pages-static-docs-decision-matrix.md",
+          "topic": "GitHub Pages static docs options decision matrix for non-technical maintainers",
+          "tech_stack": "MkDocs+Material, Docusaurus, Astro Starlight, Jekyll",
+          "fetched": "2026-04-02T12:25:00Z",
+          "source": "Context7 API + official docs"
+        }
+      ]
+    }
+  }
+}
