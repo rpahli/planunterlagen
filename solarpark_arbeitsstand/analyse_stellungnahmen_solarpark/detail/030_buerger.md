@@ -1,5 +1,5 @@
 ## 1. Nr. / Bürger
-Nr. 030 – Bürger 29
+Nr. 30 / Bürger 29
 
 ## 2. Ursprung Stellungnahme (Kurzfassung)
 - Kritisiert hohen Anteil geplanter Solarflächen und zusätzliche Belastungen durch weitere Vorhaben.
@@ -11,7 +11,7 @@ Nr. 030 – Bürger 29
 - Naturschutz-/Biotopmaßnahmen und Landschaftseinbindung werden als Kompensation benannt (`analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:337`, `analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:340`, `analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:493`).
 
 ## 4. Bewertung
-Teilweise berücksichtigt.
+Teilweise berücksichtigt
 
 ## 5. Offener Punkt
 Die kumulative Zusatzbelastung durch weitere parallel geplante Projekte (inkl. sektorübergreifender Vorhaben) ist im ausgewerteten Material nur begrenzt nachvollziehbar behandelt.

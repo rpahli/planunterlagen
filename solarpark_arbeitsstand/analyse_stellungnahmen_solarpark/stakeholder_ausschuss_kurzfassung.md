@@ -5,18 +5,29 @@ Grundlage: 30 Bürger-Stellungnahmen und 7 Planunterlagen (konsolidierte Detail-
 
 ## 1) Kernaussage in 30 Sekunden
 
-Die Planunterlagen reagieren auf die meisten Bürgerpunkte, aber überwiegend **nur teilweise**:  
+### Evidenz aus der Auswertung
+Die Planunterlagen reagieren auf die meisten Buergerpunkte, aber ueberwiegend **nur teilweise**:  
 **30 von 30 Stellungnahmen = „Teilweise berücksichtigt“**.
 
-Das Verfahren ist fachlich tragfähig, aber in mehreren Konfliktfeldern noch nicht hinreichend transparent bzw. standortkonkret begründet.
+Wiederkehrend belegt sind vor allem Reaktionen zu Artenschutz, Alternativenpruefung, Rueckbau, Einfriedung/Wilddurchlaessen und technischen Rahmenbedingungen. Wiederkehrend offen bleiben standortkonkrete Nachweise, kumulative Betrachtungen und klar nachvollziehbare Punkt-fuer-Punkt-Abwaegungen.
+
+### Einordnung
+Das Verfahren erscheint damit fachlich nicht unbegruendet, aber in mehreren Konfliktfeldern noch nicht hinreichend transparent und standortkonkret begruendet.
+
+### Methodischer Hinweis
+Diese Kurzfassung verdichtet nur die vorliegenden Detail- und Tabellenergebnisse; sie trifft keine eigenstaendigen neuen Tatsachenfeststellungen.
 
 ## 2) Fünf zentrale Konfliktfelder
 
-1. **Kumulation mehrerer Vorhaben** im Gemeindegebiet (Gesamtwirkung unzureichend dargestellt)
-2. **Landwirtschaftliche Flächeninanspruchnahme** (betriebsbezogene Folgen nicht ausreichend konkret)
-3. **Wirksamkeit von Naturschutzmaßnahmen im Vollzug** (Monitoring/Nachsteuerung zu wenig verbindlich)
-4. **Standortkonkrete Risiken** (Blendung, Brand-/Waldnähe, Brunnen/Drainage) teils nicht nachgewiesen
-5. **Abwägungstransparenz** (fehlende leicht lesbare Punkt-für-Punkt-Synopse je Einwendung)
+### Evidenzbasiert wiederkehrend
+1. **Kumulation mehrerer Vorhaben** im Gemeindegebiet (Gesamtwirkung nicht durchgaengig standortuebergreifend dargestellt)
+2. **Landwirtschaftliche Flaecheninanspruchnahme** (betriebsbezogene Folgen oft nicht konkret ausgewiesen)
+3. **Wirksamkeit von Naturschutzmassnahmen im Vollzug** (Monitoring und Nachsteuerung haeufig nicht hinreichend konkret)
+4. **Standortkonkrete Risiken** (z. B. Blendung, Brand-/Waldnaehe, Brunnen/Drainage) teils nicht objektspezifisch nachgewiesen
+5. **Abwaegungstransparenz** (fehlende leicht lesbare Punkt-fuer-Punkt-Synopse je Einwendung)
+
+### Einordnung
+Die Konfliktlage resultiert damit weniger aus vollstaendig unbehandelten Themen als aus begrenzt nachvollziehbaren Begruendungen und Nachweisen.
 
 ## 3) Entscheidungsvorschlag (2-Stufen-Modell)
 
@@ -27,7 +38,7 @@ Das Verfahren ist fachlich tragfähig, aber in mehreren Konfliktfeldern noch nic
 - Verbindliche **Monitoring-Trigger** mit klarer Nachsteuerungslogik
 - Vertragliche Klarstellung zu **Baustellenverkehr / Straßenschäden / Beweissicherung**
 
-**Wirkung:** schneller Vertrauensgewinn, höhere Nachvollziehbarkeit, geringeres Verfahrensrisiko.
+**Erwartete Wirkung:** duerfte zu hoeherer Nachvollziehbarkeit beitragen und das Verfahrensrisiko eher verringern.
 
 ## Stufe B – Vertiefung (2–6 Monate)
 
@@ -35,7 +46,7 @@ Das Verfahren ist fachlich tragfähig, aber in mehreren Konfliktfeldern noch nic
 - Standortkonkrete Zusatznachweise (v. a. **Blendung**, **Mikroklima/Brand**, **Hydrogeologie**)
 - Kommunales **EE-/Raumwirkungskonzept** über alle großen Vorhaben
 
-**Wirkung:** substanzieller Konfliktabbau und robustere Entscheidungsgrundlage für spätere Verfahrensschritte.
+**Erwartete Wirkung:** kann zu weiterem Konfliktabbau beitragen und die Entscheidungsgrundlage fuer spaetere Verfahrensschritte verbessern.
 
 ## 4) Beschlussreife Empfehlung
 
@@ -43,4 +54,4 @@ Das Verfahren ist fachlich tragfähig, aber in mehreren Konfliktfeldern noch nic
 2. Vertiefungspaket B mit Fristen, Zuständigkeiten und Berichtsterminen mandatieren.  
 3. Nachsteuerungsrunde mit aktualisierter Synopse und Gesamttabelle im Ausschuss terminieren.
 
-So bleibt das Vorhaben steuerbar, wird transparenter und fachlich/rechtlich belastbarer.
+So koennte das Vorhaben besser gesteuert, transparenter gemacht und fachlich bzw. verfahrensbezogen belastbarer begruendet werden.

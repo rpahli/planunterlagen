@@ -12,13 +12,13 @@ Naturschutzfachliche Einwaende: suedlicher SO1-Bereich im Vorranggebiet Arten-/B
 - Eine explizite Herausnahme des geforderten suedlichen Teilbereichs aus SO1 ist in den ausgewerteten Textstellen nicht erkennbar.
 
 ## 4. Bewertung
-Teilweise beruecksichtigt.
+Teilweise berücksichtigt
 
 ## 5. Offener Punkt
-Teilflaechenausnahme (suedlicher Zipfel SO1) ist nicht klar als Uebernahme der Forderung dokumentiert.
+Eine ausdrueckliche Herausnahme des geforderten suedlichen Teilbereichs von SO1 ist in den ausgewerteten Textstellen nicht nachweisbar.
 
 ## 6. Empfehlung
-Kartographisch und textlich transparent nachreichen, wie mit dem konkret benannten Teilraum (Vorranggebiet) in der Endabwaegung umgegangen wurde.
+Kartographisch und textlich transparent nachreichen, wie mit dem konkret benannten Teilraum in der Endabwaegung umgegangen wurde.
 
 ## 7. Unsicherheiten
-Anlage 2 (Gruenordnungsplan) ist OCR-bedingt nur eingeschraenkt auswertbar; deshalb primaer Plausibilisierung ueber Planteil C und Themenindex.
+Anlage 2 (Gruenordnungsplan) ist OCR-bedingt nur eingeschraenkt auswertbar; deshalb erfolgt die Plausibilisierung primaer ueber Planteil C und Themenindex. Fuer den konkret benannten Teilraum bleibt die Bewertung dadurch nur eingeschraenkt abgesichert.

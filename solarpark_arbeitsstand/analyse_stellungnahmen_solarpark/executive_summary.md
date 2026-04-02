@@ -5,33 +5,37 @@ Basis: 30 Bürger-Stellungnahmen (`stellungnahmen/Stellungnahmen_Bürger_Zusamme
 
 ## 1) Kurzfazit
 
-Die neue Planung adressiert die meisten Einwendungsfelder **formal und in Teilen materiell**, insbesondere zu Artenschutzmaßnahmen, Alternativenprüfung, Rückbau, Einfriedung/Wilddurchlässen sowie technischen Rahmenbedingungen.
+### Evidenz aus den 30 Detailfaellen
+- **30 von 30 Stellungnahmen** sind in der konsolidierten Auswertung als **„Teilweise berücksichtigt“** eingeordnet.
+- Wiederkehrend belegt sind im Entwurf vor allem Reaktionen zu **Artenschutzmassnahmen**, **Alternativenpruefung**, **Rueckbau**, **Einfriedung/Wilddurchlaessen** sowie **technischen Rahmenbedingungen**.
+- Wiederkehrend offen bleiben in den Detailfaellen vor allem **standortkonkrete Nachweise**, **kumulative Betrachtungen** ueber mehrere Vorhaben sowie **explizite Punkt-fuer-Punkt-Antworten** auf komplexe Einwendungen.
 
-Gleichzeitig bleiben mehrere **entscheidungsrelevante Lücken in der Nachvollziehbarkeit**: wiederkehrend fehlen standortkonkrete Nachweise (statt allgemeiner Aussagen), kumulative Betrachtungen über mehrere Vorhaben sowie explizite Punkt-für-Punkt-Antworten zu komplexen Einwendungen.
+### Einordnung / Synthese
+Die Planunterlagen wirken damit fachlich nicht unbegruendet, aber in mehreren Konfliktfeldern noch nicht hinreichend nachvollziehbar ausdifferenziert. Das zentrale Defizit liegt weniger im voelligen Fehlen von Reaktionen als in der begrenzten Nachweis- und Abwaegungstiefe.
 
-Bewertungsbild (30/30 Fälle):
-- Vollständig berücksichtigt: **0**
-- Teilweise berücksichtigt: **30**
-- Nicht erkennbar berücksichtigt: **0**
-
-Interpretation: Es gibt ein tragfähiges fachliches Fundament, aber die **Abwägungs- und Nachweisqualität** reicht aus Sicht vieler Einwendungen noch nicht für einen robusten Konfliktabschluss.
+### Methodischer Hinweis
+Diese Summary verdichtet die bereits vorliegenden 30 Detaildateien und die konsolidierte Tabelle. Sie fuehrt keine neue Sachverhaltsermittlung ein; verbleibende OCR- und Anlagenunsicherheiten aus den Detailfaellen wirken daher in die Managementsicht fort.
 
 ## 2) Hauptkonflikte (clusterübergreifend)
 
-1. **Kumulation und Maßstäblichkeit im Gemeinderaum**  
-   Wiederkehrende Kritik: Gesamtgröße/Konzentration mehrerer PV-Vorhaben, fehlende gesamtkommunale Wirkungssicht.
+### Evidenzbasiert wiederkehrende Konfliktfelder
+1. **Kumulation und Massstaeblichkeit im Gemeinderaum**  
+   Wiederkehrende Kritik an Gesamtgroesse und Konzentration mehrerer PV-Vorhaben sowie an einer fehlenden standortuebergreifenden Wirkungssicht.
 
-2. **Landwirtschaft vs. Energieflächennutzung**  
-   Konflikt um Flächenentzug, Bodenwertigkeit und fehlende betriebsbezogene Agrarfolgen.
+2. **Landwirtschaft vs. Energieflaechennutzung**  
+   Wiederkehrende Einwaende zu Flaechenentzug, Bodenwertigkeit und fehlender betriebsbezogener Darstellung agrarischer Folgen.
 
 3. **Naturschutz-Wirksamkeit im Vollzug**  
-   Maßnahmen sind vorhanden, aber Wirksamkeit/Steuerung (Monitoring, Trigger, Nachsteuerung) wird als zu wenig belastbar empfunden.
+   Massnahmen sind haeufig benannt, ihre Wirksamkeit im Vollzug wird jedoch mehrfach nur prognostisch oder mit begrenzter Nachsteuerungslogik erkennbar.
 
-4. **Immissions-/Sicherheits- und objektspezifische Risiken**  
-   Blendung, Brand-/Waldnähe, Brunnen/Drainage, straßenbezogene Baufolgen: häufig fehlen konkrete orts- oder objektbezogene Nachweise.
+4. **Immissions-, Sicherheits- und objektspezifische Risiken**  
+   Wiederkehrende offene Punkte betreffen Blendung, Brand-/Waldnaehe, Brunnen/Drainage und weitere orts- oder objektbezogene Risiken.
 
-5. **Transparenz der Abwägung und Bürgernachvollziehbarkeit**  
-   Bei umfangreichen Einwendungen fehlt oft eine klar sichtbare Synopse je Punkt (übernommen / teilweise / nicht übernommen + Begründung).
+5. **Transparenz der Abwaegung und Buergernachvollziehbarkeit**  
+   Vor allem bei umfangreichen Einwendungen fehlt haeufig eine klar sichtbare Synopse je Punkt mit Uebernahmestatus und Begruendung.
+
+### Einordnung / Synthese
+Diese Konfliktfelder sprechen nicht zwingend gegen die fachliche Bearbeitung einzelner Themen, wohl aber gegen eine bereits robuste Konfliktaufloesung. Fuer die Entscheidungsreife ist deshalb vor allem die Nachschaerfung der Nachvollziehbarkeit relevant.
 
 ## 3) Priorisierte Empfehlungen (Entscheidungsvorlage)
 
@@ -88,4 +92,4 @@ Interpretation: Es gibt ein tragfähiges fachliches Fundament, aber die **Abwäg
 2. **Nachbesserungspaket B (vertiefte Nacharbeit) mit Zeitplan und Verantwortlichen beschließen**  
 3. **Finale Review-Runde mit aktualisierter Gesamttabelle + Synopse durchführen**
 
-Damit kann der verbleibende Konflikt nicht vollständig aufgehoben, aber **deutlich besser begründet, transparenter und rechtlich robuster** abgearbeitet werden.
+Damit duerfte der verbleibende Konflikt nicht vollstaendig aufgehoben, aber **besser begruendet, transparenter und verfahrensrobuster** bearbeitet werden.

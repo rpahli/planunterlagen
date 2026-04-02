@@ -10,7 +10,7 @@ Ablehnung des Vorhabens; Prioritaet fuer bereits versiegelte Flaechen statt Land
 - Entlang der A17 wurden weitere Alternativen wegen kumulativer negativer Auswirkungen ausgeschlossen (251219_Waltersdorf_PlanteilC_UB.txt, Z. 2827-2830).
 
 ## 4. Bewertung
-Teilweise beruecksichtigt.
+Teilweise berücksichtigt
 
 ## 5. Offener Punkt
 Die Forderung nach Verzicht auf Agrarflaechen wird nicht uebernommen; der Entwurf priorisiert hier den Ausbau erneuerbarer Energien und die konkrete Standortentscheidung.

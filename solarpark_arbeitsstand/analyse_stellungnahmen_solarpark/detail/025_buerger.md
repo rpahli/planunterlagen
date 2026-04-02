@@ -1,5 +1,5 @@
 ## 1. Nr. / Bürger
-Nr. 025 – Bürger 24
+Nr. 25 / Bürger 24
 
 ## 2. Ursprung Stellungnahme (Kurzfassung)
 - Fragt nach geplanter Leistung, EEG-Bezug und wirtschaftlicher Sinnhaftigkeit inkl. Gemeindebeteiligung.
@@ -11,7 +11,7 @@ Nr. 025 – Bürger 24
 - Wasserwirtschaftliche Herleitung ist vorhanden (breitflächige Versickerung, unversiegelte Flächen, wasserdurchlässige Wege) (`analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:531`, `analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:655`, `analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:657`).
 
 ## 4. Bewertung
-Teilweise berücksichtigt.
+Teilweise berücksichtigt
 
 ## 5. Offener Punkt
 Eine explizite, belastbare Darstellung zu kommunaler finanzieller Beteiligung und Wirtschaftlichkeitsvergleich ist in den ausgewerteten Planunterlagen nicht klar ersichtlich.

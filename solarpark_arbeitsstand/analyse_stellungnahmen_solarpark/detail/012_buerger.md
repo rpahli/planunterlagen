@@ -11,13 +11,13 @@ Kritik an Kumulation mehrerer Solarparks (Ueberdimensionierung), Lage in Schutzk
 - Lage im LSG wird benoetigt/beruecksichtigt, zugleich wird die Realisierbarkeit im Entwurf bejaht (251219_Waltersdorf_PlanteilC_UB.txt, Z. 953-955).
 
 ## 4. Bewertung
-Teilweise beruecksichtigt.
+Teilweise berücksichtigt
 
 ## 5. Offener Punkt
-Die grundsaetzliche Kritik an der Gesamtgroesse/Kumulation im Gemeindeumfeld bleibt inhaltlich strittig; der Entwurf begruendet, uebernimmt aber die Einwendung nicht.
+Die Grundsatzkritik an Groesse und Kumulation mehrerer Vorhaben im Gemeindeumfeld bleibt offen; zudem sind einzelne Teilaspekte zu Grundwasser-, Schutzgebiets- und Artkonflikten im ausgewerteten Material nur teilweise belastbar beantwortet.
 
 ## 6. Empfehlung
-Kumulative Wirkungen mehrerer Parks im Raum Liebstadt in der Abwaegung noch transparenter zusammenfassen (eine nachvollziehbare Gesamtbilanz je Schutzgut).
+Kumulative Wirkungen mehrerer Vorhaben im Raum Liebstadt in der Abwaegung noch transparenter je Schutzgut zusammenfassen.
 
 ## 7. Unsicherheiten
 Keine belastbare Vertiefung aus Anlage 2 (OCR-stark gestoert); deshalb Schwerpunkt auf Planteil C.

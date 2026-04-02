@@ -13,7 +13,7 @@ Fehlende Festsetzungen zu Stromableitung, Einspeisepunkt und Speicheranlagen; De
 - Konkrete vertragliche Regelungen zur Dokumentation und Kostenuebernahme bei Strassenschaeden waehrend Bauphase sind in den geprueften Textstellen nicht explizit festgesetzt (Unsicherheit/offen).
 
 ## 4. Bewertung
-Teilweise beruecksichtigt.
+Teilweise berücksichtigt
 
 ## 5. Offener Punkt
 Konkreter Netzeinspeisepunkt, Detailfestsetzung zu Art/Lage/Dimension der Speicher sowie explizite Regelungen zu Baustellenverkehr und kommunalen Strassenschaeden bleiben nur teilweise konkretisiert.

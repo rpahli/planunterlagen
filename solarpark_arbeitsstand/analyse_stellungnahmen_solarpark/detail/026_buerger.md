@@ -1,5 +1,5 @@
 ## 1. Nr. / Bürger
-Nr. 026 – Bürger 25
+Nr. 26 / Bürger 25
 
 ## 2. Ursprung Stellungnahme (Kurzfassung)
 - Kritisiert unzureichende Bürgerbeteiligung.
@@ -11,7 +11,7 @@ Nr. 026 – Bürger 25
 - Alternativenprüfung ist dargestellt, inkl. Prüfung weiterer Flächen und Verkehrsinfrastrukturkorridore (`analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:310`, `analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:312`, `analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:314`).
 
 ## 4. Bewertung
-Teilweise berücksichtigt.
+Teilweise berücksichtigt
 
 ## 5. Offener Punkt
 Konkrete Aussagen zu Tourismusfolgen und zur Qualität/Intensität der Bürgerbeteiligung sind im ausgewerteten Entwurf nur eingeschränkt sichtbar.

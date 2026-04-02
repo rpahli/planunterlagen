@@ -1,5 +1,5 @@
 ## 1. Nr. / Bürger
-Nr. 023 – Bürger 22
+Nr. 23 / Bürger 22
 
 ## 2. Ursprung Stellungnahme (Kurzfassung)
 - Sehr umfangreiche Einwendungen zu Alternativen, GRZ, Artenschutz/Biotopen, Blendung, Sichtschutz, Zaun-/Wanderkorridoren, Landwirtschaft, Verhältnismäßigkeit und Waldabstand.
@@ -12,13 +12,13 @@ Nr. 023 – Bürger 22
 - Waldabstand wird mit 10 m und Begründung inkl. Haftungsverzicht dargestellt (`analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:684`, `analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:703`, `analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:711`).
 
 ## 4. Bewertung
-Teilweise berücksichtigt.
+Teilweise berücksichtigt
 
 ## 5. Offener Punkt
-Die Einwendung zielt vielfach auf strengere Standards (z. B. geringere GRZ, größere Waldabstände, weitergehende Konkretisierung); diese Forderungen sind nicht vollumfänglich übernommen.
+Die Einwendung zielt in vielen Punkten auf strengere Standards oder weitergehende Konkretisierung; diese Forderungen sind im Entwurf nicht durchgaengig uebernommen.
 
 ## 6. Empfehlung
-Einwendungsbezogene Synopse (Punkt-für-Punkt) mit expliziter Begründung, warum jeweilige Forderungen übernommen oder verworfen wurden, ergänzen.
+Einwendungsbezogene Synopse Punkt fuer Punkt ergaenzen und jeweils explizit begruenden, was uebernommen, teilweise uebernommen oder verworfen wurde.
 
 ## 7. Unsicherheiten
-- Stellungnahme enthält sehr viele Unterpunkte; hier ist eine verdichtete Gesamtzuordnung vorgenommen.
+- Die Stellungnahme umfasst sehr viele Unterpunkte; die Zuordnung bleibt daher bewusst verdichtet.

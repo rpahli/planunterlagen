@@ -1,5 +1,5 @@
 ## 1. Nr. / Bürger
-Nr. 028 – Bürger 27
+Nr. 28 / Bürger 27
 
 ## 2. Ursprung Stellungnahme (Kurzfassung)
 - Lehnt die geplante Größenordnung ab; befürchtet klimatische/hydrologische Effekte (Thermik, Kaltluft, Abfluss, Erosion).
@@ -11,7 +11,7 @@ Nr. 028 – Bürger 27
 - Lage im LSG und landschaftliche Minderungsmaßnahmen werden im Entwurf berücksichtigt (`analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:298`, `analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:579`, `analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:732`).
 
 ## 4. Bewertung
-Teilweise berücksichtigt.
+Teilweise berücksichtigt
 
 ## 5. Offener Punkt
 Die geforderte substanzielle Reduktion der Projektgröße und ein expliziter Nachweis zu mesoklimatischen Effekten (z. B. Kaltluftbildung) sind nicht vollständig ersichtlich.

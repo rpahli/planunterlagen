@@ -11,7 +11,7 @@ Sorgen zu Wertverlust, Brunnen/Drainage-Risiken und Erreichbarkeit des Waldstuec
 - Konkrete Regelungen zu privatem Wertverlust sind in den ausgewerteten Planfestsetzungen nicht erkennbar.
 
 ## 4. Bewertung
-Teilweise beruecksichtigt.
+Teilweise berücksichtigt
 
 ## 5. Offener Punkt
 Einzelfallnachweis zur Sicherung privater Brunnen-/Drainagefunktion und zur Werteinwirkung auf das konkrete Hofgrundstueck bleibt offen.

@@ -1,5 +1,5 @@
 ## 1. Nr. / Bürger
-Nr. 021 – Bürger 20B
+Nr. 21 / Bürger 20B
 
 ## 2. Ursprung Stellungnahme (Kurzfassung)
 - Befürchtet erhebliche Blendwirkung bei nur ca. 60 m Abstand zur Anlage (westlich von SO 1).
@@ -11,7 +11,7 @@ Nr. 021 – Bürger 20B
 - Blendschutz- und Sichtschutzvorrichtungen an Einfriedungen sind zulässig (`analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilAB.txt:233`, `analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:295`).
 
 ## 4. Bewertung
-Teilweise berücksichtigt.
+Teilweise berücksichtigt
 
 ## 5. Offener Punkt
 Ein konkreter Mindestabstand 150 m bzw. ein expliziter LAI-bezogener Nachweis für den konkreten Immissionsort ist im ausgewerteten Material nicht eindeutig belegt.

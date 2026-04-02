@@ -10,7 +10,7 @@ Erhalt historischer Kulturlandschaft und fruchtbarer Boeden; Ablehnung des Flaec
 - Befristung auf 30 Jahre mit Rueckbauverpflichtung ist vorgesehen (251219_Waltersdorf_PlanteilC_UB.txt, Z. 575-582).
 
 ## 4. Bewertung
-Teilweise beruecksichtigt.
+Teilweise berücksichtigt
 
 ## 5. Offener Punkt
 Die grundsaetzliche Forderung, fruchtbare Flaechen nicht in Anspruch zu nehmen, wird nicht uebernommen.

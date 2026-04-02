@@ -11,7 +11,7 @@ Konflikt mit Tourismus/Natur, Wertminderung von Grundstuecken, Forderung nach ve
 - Konkrete Regelungen zu privatrechtlicher Wertminderung angrenzender Immobilien sind in den Plantexten nicht erkennbar.
 
 ## 4. Bewertung
-Teilweise beruecksichtigt.
+Teilweise berücksichtigt
 
 ## 5. Offener Punkt
 Wertminderungsfrage bleibt planungsrechtlich weitgehend ausserhalb der textlichen Festsetzungen.

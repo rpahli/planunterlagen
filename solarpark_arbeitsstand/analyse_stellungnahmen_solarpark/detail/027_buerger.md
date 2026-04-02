@@ -1,5 +1,5 @@
 ## 1. Nr. / Bürger
-Nr. 027 – Bürger 26
+Nr. 27 / Bürger 26
 
 ## 2. Ursprung Stellungnahme (Kurzfassung)
 - Kritisiert Verhältnismäßigkeit im Zusammenspiel mehrerer PV-Parks (Kumulation) und fehlendes kommunales EE-Gesamtkonzept.
@@ -12,7 +12,7 @@ Nr. 027 – Bürger 26
 - Abwägungs-/Vorrangargumentation wird rechtlich ausgeführt (`analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:344`, `analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:686`).
 
 ## 4. Bewertung
-Teilweise berücksichtigt.
+Teilweise berücksichtigt
 
 ## 5. Offener Punkt
 Eine vertiefte, standortübergreifende Kumulations- und Netzstabilitätsanalyse für alle regionalen Großanlagen ist im ausgewerteten Material nicht klar erkennbar.

@@ -1,5 +1,5 @@
 ## 1. Nr. / Bürger
-Nr. 029 – Bürger 28
+Nr. 29 / Bürger 28
 
 ## 2. Ursprung Stellungnahme (Kurzfassung)
 - Befürchtet starke Beeinträchtigung des Landschaftsbildes.
@@ -11,7 +11,7 @@ Nr. 029 – Bürger 28
 - Alternativenprüfung wird dargestellt (`analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:310`, `analyse_stellungnahmen_solarpark/cache/planunterlagen_raw/251219_Waltersdorf_PlanteilC_UB.txt:314`).
 
 ## 4. Bewertung
-Teilweise berücksichtigt.
+Teilweise berücksichtigt
 
 ## 5. Offener Punkt
 Ein nachvollziehbarer Vergleich mit konkreten alternativen Energiekonzepten (z. B. prioritäre Dach-/Brownfield-Strategie) ist im ausgewerteten Entwurf nicht vertieft.
